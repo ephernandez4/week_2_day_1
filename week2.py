@@ -7,7 +7,7 @@ print("Your favorite holiday is " + holiday)
 # print out the day and their favorite holiday in
 # a sentence
 print("Today is " + day + " and your favorite holiday is " + holiday)
-
 # making a change to the file
-
-
+# string slicing
+word="hello"
+print(word[1:4])
